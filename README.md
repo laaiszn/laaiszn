@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Estudante de Desenvolvimento de Sistemas pelo SENAI  <br> 📚 Conhecimentos em HTML, CSS, JavaScript, TypeScript e SQL <br>🔌 Interesse em APIs e desenvolvimento web  <br>🎯 Buscando minha primeira oportunidade na área de tecnologia</p>
+<p align="left"> 📚 Conhecimentos em HTML, CSS, JavaScript, TypeScript e SQL <br>🔌 Interesse em APIs e desenvolvimento web  <br>🎯 Buscando minha primeira oportunidade na área de tecnologia</p>
 
 ###
 
