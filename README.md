@@ -57,6 +57,7 @@
   🔎 Busca e exploração de filmes<br>
   🎞️ Visualização de informações sobre os títulos<br>
   💻 Projeto desenvolvido para aprimorar conhecimentos em desenvolvimento web e consumo de APIs.
+  ⭐ Salvar seus filmes favoritos em uma aba
 </p>
 
 <p align="left">
